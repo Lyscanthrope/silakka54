@@ -2,6 +2,8 @@
 
 ![silakka54](imgur.com image replace me!)
 
+Version for personnal use in french
+
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Squalius-cephalus](https://github.com/Squalius-cephalus)
