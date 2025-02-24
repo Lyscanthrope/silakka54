@@ -2,7 +2,7 @@
 
 ![silakka54](imgur.com image replace me!)
 
-Version for personnal use in french
+**Version for personnal use in french** this include a the samelayout for the cheapino v2
 
 *A short description of the keyboard/project*
 
